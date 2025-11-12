@@ -75,12 +75,7 @@ npm install
 npm start
 ```
 
-👉 Backend runs at: http://localhost:5000
-
----
-
-📸 Screenshots
-Add your app screenshots here for better presentation. Example:
+👉 Backend runs at: http://localhost:5000
 
 ---
 
