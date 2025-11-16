@@ -79,8 +79,7 @@ npm start
 
 ---
 
-📈 Future Enhancements
-💳 Payment Gateway Integration (Stripe/PayPal)
+📈 Future Enhancements
 ⭐ Reviews & Ratings System
 🌍 Google Maps API Integration
 
