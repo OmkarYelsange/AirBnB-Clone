@@ -75,13 +75,7 @@ npm install
 npm start
 ```
 
-👉 Backend runs at: http://localhost:5000
-
----
-
-📈 Future Enhancements
-⭐ Reviews & Ratings System
-🌍 Google Maps API Integration
+👉 Backend runs at: http://localhost:5000
 
 ---
 
