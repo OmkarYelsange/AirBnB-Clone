@@ -75,18 +75,7 @@ npm install
 npm start
 ```
 
-👉 Backend runs at: http://localhost:5000
-
----
-
-🤝 Contributing
-Contributions are welcome! 🚀
-
-Fork the repo
-Create your feature branch (git checkout -b feature-name)
-Commit changes (git commit -m 'Add feature')
-Push to branch (git push origin feature-name)
-Open a Pull Request
+👉 Backend runs at: http://localhost:5000
 
 --- 
 
